@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gatsby-starter-netlify-cms
+  annotations:
+    github.com/project-slug: boldhawk/gatsby-starter-netlify-cms
+spec:
+  type: other
+  lifecycle: unknown
+  owner: boldhawk
